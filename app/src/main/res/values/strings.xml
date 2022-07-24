@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Recipe App</string>
+    <string name="api_key">0b68ef90c38e4fa2964d42c96fcd9612</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_recipe_name">Dish Name: Banh mi</string>
+    <string name="hint_cuisine">Cuisine: Vietnam</string>
+    <string name="hint_serving">1-2 people</string>
+    <string name="hint_cookTime">1 hour 30 minutes</string>
+    <string name="hint_ingredient">200 gr meat</string>
+    <string name="hint_instruction">Slice the meat into small pieces</string>
+    <string name="button_sign_in">Sign in</string>
+    <string name="button_sign_up">Sign up</string>
+    <string name="button_send">Send</string>
+    <string name="text_forgot_password">Forgot password?</string>
+    <string name="text_signin_message">Hello, sign in to your account</string>
+    <string name="text_signin_social_media">Or Sign in with Google</string>
+    <string name="text_signup_social_media">Or Sign up with Google</string>
+    <string name="text_signin_signup">Don\'t have an account? <b>Sign up</b></string>
+    <string name="text_signup_terms">By signing up, you agree to our <b>terms and conditions</b></string>
+    <string name="text_signup_message">Hello, let\'s set up your account</string>
+    <string name="text_chef">Chef</string>
+    <string name="text_profile">Profile</string>
+    <string name="text_forgot_password_title">Forgot password? No worries</string>
+    <string name="text_forgot_password_message">We will send you a link to reset your password</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Phone</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="add_recipe">Add Recipe</string>
+    <string name="logout">Logout</string>
+    <string name="title">Title</string>
+    <string name="hint_summary">Summary: Vietnamese baguette sandwich filled with cold meats, pâté and vegetables</string>
+    <string name="Favorite">Favorite</string>
+    <string name="Admin">Admin</string>
+    <string name="instruction">Instructions</string>
+    <string name="txt_edit">Edit</string>
+    <string name="txt_remove_this_recipe">Remove this recipe</string>
+    <string name="string_recipes">Recipes</string>
+    <string name="string_users">Users</string>
+
+
+    <string-array name="tags">
+        <item>main course</item>
+        <item>side dish</item>
+        <item>dessert</item>
+        <item>salad</item>
+        <item>bread</item>
+    </string-array>
+</resources>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProj/prm-su22-android/app/src/main/res/drawable/ic_account_circle.xml" value="0.275" />
+        <entry key="..\:/AndroidProj/prm-su22-android/app/src/main/res/drawable/ic_add_box.xml" value="0.275" />
+        <entry key="..\:/AndroidProj/prm-su22-android/app/src/main/res/drawable/ic_home.xml" value="0.275" />
+        <entry key="..\:/AndroidProj/prm-su22-android/app/src/main/res/layout/activity_add_recipe.xml" value="0.33106884057971014" />
+        <entry key="..\:/AndroidProj/prm-su22-android/app/src/main/res/layout/activity_home.xml" value="0.18541666666666667" />
+        <entry key="..\:/AndroidProj/prm-su22-android/app/src/main/res/menu/navigation_menu.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/prm-su22-android/app/src/main/res/layout/activity_admin_dash_board.xml" value="0.3484375" />
+        <entry key="..\:/AndroidStudioProjects/prm-su22-android/app/src/main/res/layout/activity_admin_dash_board_recipe.xml" value="0.3484375" />
+        <entry key="..\:/AndroidStudioProjects/prm-su22-android/app/src/main/res/layout/activity_admin_profile.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/prm-su22-android/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/prm-su22-android/app/src/main/res/layout/fragment_favourite_recipes.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/prm-su22-android/app/src/main/res/layout/fragment_member_recipes.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/prm-su22-android/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/prm-su22-android/app/src/main/res/layout/item_add.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/prm-su22-android/app/src/main/res/layout/item_email.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/prm-su22-android/app/src/main/res/layout/item_favourite.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/prm-su22-android/app/src/main/res/layout/item_image.xml" value="0.34615384615384615" />
+        <entry key="..\:/AndroidStudioProjects/prm-su22-android/app/src/main/res/layout/item_info.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/prm-su22-android/app/src/main/res/layout/item_loading.xml" value="0.3484375" />
+        <entry key="..\:/AndroidStudioProjects/prm-su22-android/app/src/main/res/layout/item_recipe.xml" value="0.3484375" />
+        <entry key="..\:/AndroidStudioProjects/prm-su22-android/app/src/main/res/layout/item_recipe_display.xml" value="0.10840108401084012" />
+        <entry key="..\:/AndroidStudioProjects/prm-su22-android/app/src/main/res/layout/item_user.xml" value="0.3484375" />
+        <entry key="..\:/AndroidStudioProjects/prm-su22-android/app/src/main/res/layout/layout_ingredient.xml" value="0.1762917933130699" />
+        <entry key="..\:/AndroidStudioProjects/prm-su22-android/app/src/main/res/layout/layout_instruction.xml" value="0.1762917933130699" />
+        <entry key="..\:/Projects/SU22/PRM/prm-su22-android/app/src/main/res/layout/activity_home.xml" value="0.23020833333333332" />
+        <entry key="..\:/Projects/SU22/PRM/prm-su22-android/app/src/main/res/layout/activity_login.xml" value="0.11195542046605876" />
+        <entry key="..\:/Projects/SU22/PRM/prm-su22-android/app/src/main/res/layout/home.xml" value="0.21614583333333334" />
+        <entry key="..\:/Projects/SU22/PRM/prm-su22-android/app/src/main/res/layout/item_recipe_display.xml" value="0.2066869300911854" />
+        <entry key="..\:/Projects/SU22/PRM/prm-su22-android/app/src/main/res/layout/list_meal_ingredients.xml" value="0.2066869300911854" />
+        <entry key="..\:/Projects/SU22/PRM/prm-su22-android/app/src/main/res/layout/list_random_recipe.xml" value="0.23020833333333332" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/drawable-v24/button2_bg.xml" value="0.204" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/drawable/background_gradient.xml" value="0.178" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/drawable/button1_bg.xml" value="0.204" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/drawable/ic_add_box.xml" value="0.2245" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/drawable/ic_back.xml" value="0.204" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/drawable/ic_clear.xml" value="0.2245" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/drawable/ic_facebook.xml" value="0.178" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/drawable/ic_food.xml" value="0.178" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/drawable/ic_image.xml" value="0.132" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1095" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.204" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/drawable/ic_like.xml" value="0.178" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/drawable/ic_move.xml" value="0.2245" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/drawable/ic_options.xml" value="0.1565" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/drawable/ic_person.xml" value="0.178" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/drawable/ic_time.xml" value="0.129" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/drawable/progress_back.xml" value="0.178" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/drawable/round_drawable.xml" value="0.178" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/drawable/round_grey.xml" value="0.2245" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/activity_add_recipe.xml" value="0.16981132075471697" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/activity_admin_dash_board.xml" value="0.20896656534954408" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/activity_admin_dash_board_recipe.xml" value="0.20896656534954408" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/activity_admin_delete_user.xml" value="0.42346014492753625" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/activity_admin_profile.xml" value="0.20896656534954408" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/activity_detail_recipe.xml" value="0.24806201550387597" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/activity_edit_recipe.xml" value="0.18663594470046083" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/activity_forgot_password.xml" value="0.2661498708010336" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/activity_home.xml" value="0.39503386004514673" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/activity_login.xml" value="0.20896656534954408" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/activity_main.xml" value="0.20896656534954408" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/activity_profile.xml" value="0.3333333333333333" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/activity_signup.xml" value="0.23020833333333332" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/activity_splash.xml" value="0.23177083333333334" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/activity_user_recipe_list.xml" value="0.41032608695652173" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/admin_home_activity.xml" value="0.20896656534954408" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/fragment_favouriteRecipes.xml" value="0.41032608695652173" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/fragment_favourite_recipes.xml" value="0.20896656534954408" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/fragment_memberRecipe.xml" value="0.41032608695652173" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/fragment_memberRecipes.xml" value="0.3333333333333333" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/fragment_member_recipes.xml" value="0.11165048543689321" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/fragment_profile.xml" value="0.3333333333333333" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/item_add.xml" value="0.3333333333333333" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/item_email.xml" value="0.41032608695652173" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/item_favourite.xml" value="0.20896656534954408" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/item_image.xml" value="0.38903985507246375" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/item_image_recipes.xml" value="0.41032608695652173" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/item_info.xml" value="0.20896656534954408" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/item_loading.xml" value="0.1286231884057971" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/item_recipe.xml" value="0.1286231884057971" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/item_recipe_display.xml" value="0.3333333333333333" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/item_user.xml" value="0.20896656534954408" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/layout_ingredient.xml" value="0.41032608695652173" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/layout_instruction.xml" value="0.20896656534954408" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/layout_progress.xml" value="0.41032608695652173" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/list_instruction_steps.xml" value="0.20896656534954408" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/list_instructions.xml" value="0.20896656534954408" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/list_instructions_step_items.xml" value="0.20896656534954408" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/list_meal_ingredients.xml" value="0.41032608695652173" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/list_random_recipe.xml" value="0.12365591397849462" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/spinner_inner_text.xml" value="0.41032608695652173" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/layout/spinner_text.xml" value="0.41032608695652173" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/menu/admin_menu.xml" value="0.4296875" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/menu/member_option_menu.xml" value="0.42864583333333334" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/menu/navigation_menu.xml" value="0.4296875" />
+        <entry key="..\:/Projects/SU22/prm-su22-android/app/src/main/res/menu/recipe_details_menu.xml" value="0.228125" />
+        <entry key="..\:/Users/HoangPhuc938/Downloads/Compressed/LoginTemplate-master/LoginTemplate-master/app/src/main/res/drawable/button1_bg.xml" value="0.194" />
+        <entry key="..\:/Users/HoangPhuc938/Downloads/Compressed/LoginTemplate-master/LoginTemplate-master/app/src/main/res/drawable/ic_facebook.xml" value="0.3305" />
+        <entry key="..\:/Users/HoangPhuc938/Downloads/Compressed/LoginTemplate-master/LoginTemplate-master/app/src/main/res/layout/activity_forgot_password.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/HoangPhuc938/Downloads/Compressed/LoginTemplate-master/LoginTemplate-master/app/src/main/res/layout/activity_login.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/HoangPhuc938/Downloads/Compressed/LoginTemplate-master/LoginTemplate-master/app/src/main/res/layout/activity_signup.xml" value="0.25" />
+        <entry key="..\:/Users/HoangPhuc938/Downloads/Compressed/LoginTemplate-master/LoginTemplate-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.194" />
+        <entry key="..\:/android/prm-su22-android/app/src/main/res/drawable-v24/button2_bg.xml" value="0.1" />
+        <entry key="..\:/android/prm-su22-android/app/src/main/res/drawable/background_gradient.xml" value="0.1" />
+        <entry key="..\:/android/prm-su22-android/app/src/main/res/drawable/button1_bg.xml" value="0.1" />
+        <entry key="..\:/android/prm-su22-android/app/src/main/res/drawable/ic_back.xml" value="0.1" />
+        <entry key="..\:/android/prm-su22-android/app/src/main/res/drawable/ic_food.xml" value="0.1" />
+        <entry key="..\:/android/prm-su22-android/app/src/main/res/drawable/ic_forgotpwd.xml" value="0.1" />
+        <entry key="..\:/android/prm-su22-android/app/src/main/res/drawable/ic_google.xml" value="0.1" />
+        <entry key="..\:/android/prm-su22-android/app/src/main/res/drawable/ic_lock.xml" value="0.1" />
+        <entry key="..\:/android/prm-su22-android/app/src/main/res/drawable/ic_phone.xml" value="0.1" />
+        <entry key="..\:/android/prm-su22-android/app/src/main/res/layout/activity_add_recipe.xml" value="0.2441123188405797" />
+        <entry key="..\:/android/prm-su22-android/app/src/main/res/layout/activity_detail_recipe.xml" value="0.22" />
+        <entry key="..\:/android/prm-su22-android/app/src/main/res/layout/activity_edit_recipe.xml" value="0.2441123188405797" />
+        <entry key="..\:/android/prm-su22-android/app/src/main/res/layout/activity_forgot_password.xml" value="0.35833333333333334" />
+        <entry key="..\:/android/prm-su22-android/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/android/prm-su22-android/app/src/main/res/layout/activity_login.xml" value="0.35833333333333334" />
+        <entry key="..\:/android/prm-su22-android/app/src/main/res/layout/activity_signup.xml" value="0.35833333333333334" />
+        <entry key="..\:/android/prm-su22-android/app/src/main/res/layout/list_meal_ingredients.xml" value="0.17553191489361702" />
+        <entry key="..\:/android/prm-su22-android/app/src/main/res/layout/list_random_recipe.xml" value="0.33" />
+        <entry key="..\:/android/prm-su22-android/app/src/main/res/layout/spinner_inner_text.xml" value="0.33" />
+        <entry key="..\:/android/prm-su22-android/app/src/main/res/layout/spinner_text.xml" value="0.2980072463768116" />
+        <entry key="..\:/prm-su22-android-ccca8841835645904bbfb6dbe6ab2dbf689feb71/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/prm-su22-android-ccca8841835645904bbfb6dbe6ab2dbf689feb71/app/src/main/res/menu/navigation_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

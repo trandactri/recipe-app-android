@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingVertical="5dp">
+    <ImageView
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:background="@drawable/ic_move"
+        android:layout_gravity="center_vertical"
+        android:backgroundTint="@color/md_black_1000"
+        />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_weight="1"
+        android:layout_gravity="center"
+        app:hintEnabled="false"
+        android:background="@drawable/round_white">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/et_instruction"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:paddingLeft="10dp"
+            android:background="@android:color/transparent"
+            android:drawablePadding="12dp"
+            android:hint="@string/hint_instruction"
+            android:imeOptions="actionNext"
+            android:inputType="text"
+            android:singleLine="true"
+            android:textColor="@color/md_black_1000"/>
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <ImageView
+        android:id="@+id/imageView_removeInstruction"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:background="@drawable/ic_clear"
+        android:layout_gravity="center_vertical"
+        android:backgroundTint="@color/md_red_700"/>
+</LinearLayout>

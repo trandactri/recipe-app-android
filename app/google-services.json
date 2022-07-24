@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "293536346990",
+    "firebase_url": "https://fir-recipe-app-2f32f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-recipe-app-2f32f",
+    "storage_bucket": "fir-recipe-app-2f32f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293536346990:android:9b697c5772c7e93f38877f",
+        "android_client_info": {
+          "package_name": "com.prmproject.recipeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293536346990-obhg0nphgroqofvp6vd4hquqd0su7sfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0K30nwXmm-HyUKpZJg6HgmSvDUrZSHZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293536346990-obhg0nphgroqofvp6vd4hquqd0su7sfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
