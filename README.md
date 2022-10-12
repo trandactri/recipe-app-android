@@ -1,7 +1,5 @@
 # RecipeApp
+This is an mobile application helps people who loves to have some knowledge about what they will cook and how they can cook.
 
-![screenshot 1](https://github.com/qureshiayaz29/RecipeApp/blob/master/screenshot/Screenshot_1.png)
-
-![screenshot 2](https://github.com/qureshiayaz29/RecipeApp/blob/master/screenshot/Screenshot_2.png)
-
-![screenshot 3](https://github.com/qureshiayaz29/RecipeApp/blob/master/screenshot/Screenshot_3.png)
+# Notes:
+You'll only see the recipes from the spoonacular api and those you added yourself, but not from others.
